@@ -23,10 +23,17 @@
   </div>
 
 
+  <div class="container">
+  <div class="review">
+    <h2>LEGO Set 76922 – </h2>
+    <p><strong>Rating:</strong> ⭐⭐⭐⭐⭐</p>
+    <p> As an owner and builder of these model cars, I absolutely love them! If you're a lifelong BMW fan like me, you will too. They capture every detail of the real cars, and the minifigures are fantastic—even wearing        BMW race suits, which I adore.!</p>
+  </div>
+
 
 
 <footer>
-  <p>© 2025 JAI— LEGO Reviews</p>
+  <p>© 2025 JAI&PARISA(CORP)— LEGO Reviews</p>
 </footer>
 
 </body>
