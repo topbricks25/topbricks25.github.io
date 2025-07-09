@@ -23,16 +23,7 @@
   </div>
 
 
-    <div class="container">
-  <div class="review">
-    <h2>LEGO Set 76922 – LEGO Speed Champions BMW</h2>
-    <p><strong>Rating:</strong> ⭐⭐⭐⭐⭐</p>
-    <p> .!</p>
-  </div>
 
-
-  <!-- Add more reviews here -->
-</div>
 
 <footer>
   <p>© 2025 JAI— LEGO Reviews</p>
